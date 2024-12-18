@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <!-- Console Appender -->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n%throwable"/>
+        </Console>
+
+        <!-- File Appender -->
+        <File name="File" fileName="logs/app.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n%throwable"/>
+        </File>
+    </Appenders>
+
+    <!-- Logger Configuration -->
+    <Loggers>
+        <!-- Root logger logs to both Console and File -->
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+
+        <!-- You can specify logging for specific classes if needed -->
+        <!-- <Logger name="com.example" level="debug" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger> -->
+    </Loggers>
+</Configuration>
+
