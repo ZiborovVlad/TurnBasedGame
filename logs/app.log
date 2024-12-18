@@ -225,3 +225,20 @@
 2024-12-18 14:49:43 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
 2024-12-18 14:49:52 [JavaFX Application Thread] INFO : Приложение завершило работу.
 2024-12-18 14:49:52 [JavaFX Application Thread] INFO : Построение графиков игровых ресурсов по дням.
+2024-12-18 20:30:27 [JavaFX Application Thread] ERROR: Ошибка в работе программы.
+2024-12-18 21:36:15 [main] INFO : Запуск приложения
+2024-12-18 22:09:09 [main] INFO : Запуск приложения
+2024-12-18 22:09:26 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:30 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:33 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:35 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:39 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:40 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:43 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:45 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:48 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:51 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:54 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:56 [JavaFX Application Thread] INFO : День обработан, данные записаны в файл.
+2024-12-18 22:09:59 [JavaFX Application Thread] INFO : Приложение завершило работу.
+2024-12-18 22:09:59 [JavaFX Application Thread] INFO : Построение графиков игровых ресурсов по дням.

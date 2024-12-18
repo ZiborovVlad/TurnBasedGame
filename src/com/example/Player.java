@@ -1,5 +1,6 @@
 package com.example;
 
+import java.awt.image.ImageProducer;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -47,7 +48,7 @@ public class Player{
         this.peasants = 5;
         this.houses = 1;
         this.watered = false;
-        this.territory = new int[3][3]; // Это пример, можно сделать динамично
+        this.territory = new int[4][4]; // Это пример, можно сделать динамично
         this.attack = false;
         this.days=0;
     }
